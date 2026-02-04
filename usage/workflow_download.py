@@ -5,6 +5,8 @@ from jmcomic.cl import JmcomicUI
 jm_albums = '''
 
 JM1215253
+JM539441
+JM542815
 
 '''
 
